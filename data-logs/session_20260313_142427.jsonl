@@ -1,0 +1,2 @@
+{"seq": 1, "ts": "2026-03-13T18:24:27.251801+00:00", "event": "session_start", "model": "anthropic/claude-haiku-4.5", "server": "filesystem", "pid": 28929}
+{"seq": 2, "ts": "2026-03-13T18:24:36.264571+00:00", "event": "session_end", "total_events": 1}
